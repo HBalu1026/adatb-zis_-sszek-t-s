@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppMySQL-gyak", "WpfAppMySQL-gyak.csproj", "{34FCC0BF-1910-4333-AAC9-29791321601C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FCC0BF-1910-4333-AAC9-29791321601C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FCC0BF-1910-4333-AAC9-29791321601C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FCC0BF-1910-4333-AAC9-29791321601C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FCC0BF-1910-4333-AAC9-29791321601C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5EE18E-C713-4448-94BB-E3A22769F48B}
+	EndGlobalSection
+EndGlobal
